@@ -82,14 +82,14 @@ class ProviderAggregatorTest extends TestCase
         $this->assertSame(['test' => $provider], NSA::getProperty($this->geocoder, 'providers'));
     }
 
-    public function testUsingNonExistantProviderShouldThrowAnException(): void
+    public function testUsingNonExistentProviderShouldThrowAnException(): void
     {
         $this->expectException(\Geocoder\Exception\ProviderNotRegistered::class);
-        $this->expectExceptionMessage('Provider "non_existant" is not registered, so you cannot use it. Did you forget to register it or made a typo? Registered providers are: test1.');
+        $this->expectExceptionMessage('Provider "non_existent" is not registered, so you cannot use it. Did you forget to register it or made a typo? Registered providers are: test1.');
 
         $this->geocoder->registerProvider(new MockProvider('test1'));
 
-        $this->geocoder->using('non_existant');
+        $this->geocoder->using('non_existent');
     }
 
     public function testUsingAnEmptyProviderNameShouldThrowAnException(): void

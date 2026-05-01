@@ -271,7 +271,7 @@ class YandexTest extends BaseTestCase
         $this->assertEqualsWithDelta(2.392115, $result->getCoordinates()->getLongitude(), 0.01);
     }
 
-    public function testReverseWithRealCoordinatesWithUSLocaleAndStreeToponym(): void
+    public function testReverseWithRealCoordinatesWithUSLocaleAndStreetToponym(): void
     {
         $provider = new Yandex($this->getHttpClient(), 'street');
         $results = $provider->reverseQuery(ReverseQuery::fromCoordinates(48.863216489553, 2.388771995902061)->withLocale('en-US'));

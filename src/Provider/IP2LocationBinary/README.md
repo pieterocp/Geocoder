@@ -1,5 +1,4 @@
 # IP2Location Binary Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/ip2location-binary-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/ip2location-binary-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/ip2location-binary-provider/v/stable)](https://packagist.org/packages/geocoder-php/ip2location-binary-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/ip2location-binary-provider/downloads)](https://packagist.org/packages/geocoder-php/ip2location-binary-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/ip2location-binary-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/ip2location-binary-provider)

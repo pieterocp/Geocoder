@@ -1,5 +1,4 @@
 # Ipstack Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/ipstack-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/ipstack-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/ipstack-provider/v/stable)](https://packagist.org/packages/geocoder-php/ipstack-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/ipstack-provider/downloads)](https://packagist.org/packages/geocoder-php/ipstack-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/ipstack-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/ipstack-provider)

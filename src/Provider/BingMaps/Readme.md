@@ -1,5 +1,4 @@
 # Bing Maps Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/bing-maps-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/bing-maps-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/bing-maps-provider/v/stable)](https://packagist.org/packages/geocoder-php/bing-maps-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/bing-maps-provider/downloads)](https://packagist.org/packages/geocoder-php/bing-maps-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/bing-maps-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/bing-maps-provider)

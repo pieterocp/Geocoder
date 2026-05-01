@@ -1,5 +1,4 @@
 # Yandex Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/yandex-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/yandex-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/yandex-provider/v/stable)](https://packagist.org/packages/geocoder-php/yandex-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/yandex-provider/downloads)](https://packagist.org/packages/geocoder-php/yandex-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/yandex-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/yandex-provider)

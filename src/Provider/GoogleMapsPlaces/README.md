@@ -1,5 +1,4 @@
 # Google Places Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/google-maps-places-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/google-maps-places-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/google-maps-places-provider/v/stable)](https://packagist.org/packages/geocoder-php/google-maps-places-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/google-maps-places-provider/downloads)](https://packagist.org/packages/geocoder-php/google-maps-places-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/google-maps-places-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/google-maps-places-provider)

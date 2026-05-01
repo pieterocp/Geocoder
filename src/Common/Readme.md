@@ -1,5 +1,4 @@
 # Common classes for the Geocoder
-[![Build Status](https://travis-ci.org/geocoder-php/php-common.svg?branch=master)](http://travis-ci.org/geocoder-php/php-common)
 [![Latest Stable Version](https://poser.pugx.org/willdurand/geocoder/v/stable)](https://packagist.org/packages/willdurand/geocoder)
 [![Total Downloads](https://poser.pugx.org/willdurand/geocoder/downloads)](https://packagist.org/packages/willdurand/geocoder)
 [![Monthly Downloads](https://poser.pugx.org/willdurand/geocoder/d/monthly.png)](https://packagist.org/packages/willdurand/geocoder)

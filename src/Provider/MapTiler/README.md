@@ -1,6 +1,5 @@
 # MapTiler Geocoder provider
 
-[![Build Status](https://travis-ci.org/geocoder-php/maptiler-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/maptiler-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/maptiler-provider/v/stable)](https://packagist.org/packages/geocoder-php/maptiler-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/maptiler-provider/downloads)](https://packagist.org/packages/geocoder-php/maptiler-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/maptiler-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/maptiler-provider)

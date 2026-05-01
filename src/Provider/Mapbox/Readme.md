@@ -1,5 +1,4 @@
 # Mapbox Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/mapbox-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/mapbox-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/mapbox-provider/v/stable)](https://packagist.org/packages/geocoder-php/mapbox-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/mapbox-provider/downloads)](https://packagist.org/packages/geocoder-php/mapbox-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/mapbox-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/mapbox-provider)

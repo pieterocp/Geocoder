@@ -1,5 +1,4 @@
 # Google Maps Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/google-maps-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/google-maps-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/google-maps-provider/v/stable)](https://packagist.org/packages/geocoder-php/google-maps-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/google-maps-provider/downloads)](https://packagist.org/packages/geocoder-php/google-maps-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/google-maps-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/google-maps-provider)

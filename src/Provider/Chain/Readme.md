@@ -1,5 +1,4 @@
 # Chain provider
-[![Build Status](https://travis-ci.org/geocoder-php/chain-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/chain-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/chain-provider/v/stable)](https://packagist.org/packages/geocoder-php/chain-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/chain-provider/downloads)](https://packagist.org/packages/geocoder-php/chain-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/chain-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/chain-provider)

@@ -1,5 +1,4 @@
 # TomTom Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/tomtom-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/tomtom-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/tomtom-provider/v/stable)](https://packagist.org/packages/geocoder-php/tomtom-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/tomtom-provider/downloads)](https://packagist.org/packages/geocoder-php/tomtom-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/tomtom-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/tomtom-provider)

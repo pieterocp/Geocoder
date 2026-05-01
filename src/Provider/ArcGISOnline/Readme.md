@@ -1,6 +1,5 @@
 # ArcGIS Online
 
-[![Build Status](https://travis-ci.org/geocoder-php/arcgis-online-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/arcgis-online-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/arcgis-online-provider/v/stable)](https://packagist.org/packages/geocoder-php/arcgis-online-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/arcgis-online-provider/downloads)](https://packagist.org/packages/geocoder-php/arcgis-online-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/arcgis-online-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/arcgis-online-provider)

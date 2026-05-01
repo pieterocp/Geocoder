@@ -1,5 +1,4 @@
 # Free GeoIp provider
-[![Build Status](https://travis-ci.org/geocoder-php/free-geoip-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/free-geoip-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/free-geoip-provider/v/stable)](https://packagist.org/packages/geocoder-php/free-geoip-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/free-geoip-provider/downloads)](https://packagist.org/packages/geocoder-php/free-geoip-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/free-geoip-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/free-geoip-provider)

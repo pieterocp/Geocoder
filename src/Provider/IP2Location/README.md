@@ -1,5 +1,4 @@
 # IP2Location Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/ip2location-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/ip2location-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/ip2location-provider/v/stable)](https://packagist.org/packages/geocoder-php/ip2location-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/ip2location-provider/downloads)](https://packagist.org/packages/geocoder-php/ip2location-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/ip2location-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/ip2location-provider)

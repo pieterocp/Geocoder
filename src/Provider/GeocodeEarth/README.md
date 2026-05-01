@@ -1,5 +1,4 @@
 # Geocode Earth Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/geocode-earth-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/geocode-earth-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/geocode-earth-provider/v/stable)](https://packagist.org/packages/geocoder-php/geocode-earth-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/geocode-earth-provider/downloads)](https://packagist.org/packages/geocoder-php/geocode-earth-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/geocode-earth-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/geocode-earth-provider)

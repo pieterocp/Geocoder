@@ -1,5 +1,4 @@
 # GraphHopper Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/graphhopper-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/graphhopper-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/graphhopper-provider/v/stable)](https://packagist.org/packages/geocoder-php/graphhopper-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/graphhopper-provider/downloads)](https://packagist.org/packages/geocoder-php/graphhopper-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/graphhopper-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/graphhopper-provider)

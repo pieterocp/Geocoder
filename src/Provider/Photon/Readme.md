@@ -1,5 +1,4 @@
 # photon Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/photon-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/photon-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/photon-provider/v/stable)](https://packagist.org/packages/geocoder-php/photon-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/photon-provider/downloads)](https://packagist.org/packages/geocoder-php/photon-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/photon-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/photon-provider)

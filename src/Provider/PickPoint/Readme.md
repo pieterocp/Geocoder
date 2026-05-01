@@ -1,5 +1,4 @@
 # PickPoint Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/pickpoint-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/pickpoint-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/pickpoint-provider/v/stable)](https://packagist.org/packages/geocoder-php/pickpoint-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/pickpoint-provider/downloads)](https://packagist.org/packages/geocoder-php/pickpoint-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/pickpoint-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/pickpoint-provider)

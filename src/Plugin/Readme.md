@@ -1,6 +1,5 @@
 # Geocoder plugin
 
-[![Build Status](https://travis-ci.org/geocoder-php/plugin.svg?branch=master)](http://travis-ci.org/geocoder-php/plugin)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/plugin/v/stable)](https://packagist.org/packages/geocoder-php/plugin)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/plugin/downloads)](https://packagist.org/packages/geocoder-php/plugin)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/plugin/d/monthly.png)](https://packagist.org/packages/geocoder-php/plugin)

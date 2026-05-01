@@ -1,6 +1,5 @@
 # Common classes for HTTP based Geocoders
 
-[![Build Status](https://travis-ci.org/geocoder-php/php-common-http.svg?branch=master)](http://travis-ci.org/geocoder-php/php-common-http)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/common-http/v/stable)](https://packagist.org/packages/geocoder-php/common-http)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/common-http/downloads)](https://packagist.org/packages/geocoder-php/common-http)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/common-http/d/monthly.png)](https://packagist.org/packages/geocoder-php/common-http)

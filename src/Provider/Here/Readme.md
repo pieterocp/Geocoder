@@ -1,5 +1,4 @@
 # Here Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/here-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/here-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/here-provider/v/stable)](https://packagist.org/packages/geocoder-php/here-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/here-provider/downloads)](https://packagist.org/packages/geocoder-php/here-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/here-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/here-provider)

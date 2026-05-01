@@ -1,6 +1,5 @@
 # Pelias Geocoder provider
 
-[![Build Status](https://travis-ci.org/geocoder-php/pelias-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/pelias-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/pelias-provider/v/stable)](https://packagist.org/packages/geocoder-php/pelias-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/pelias-provider/downloads)](https://packagist.org/packages/geocoder-php/pelias-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/pelias-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/pelias-provider)

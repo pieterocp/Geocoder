@@ -1,5 +1,4 @@
 # Geonames Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/geonames-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/geonames-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/geonames-provider/v/stable)](https://packagist.org/packages/geocoder-php/geonames-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/geonames-provider/downloads)](https://packagist.org/packages/geocoder-php/geonames-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/geonames-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/geonames-provider)

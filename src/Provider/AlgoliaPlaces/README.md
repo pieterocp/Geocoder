@@ -1,6 +1,5 @@
 # Algolia Places Provider
 
-[![Build Status](https://travis-ci.org/geocoder-php/algolia-places-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/algolia-places-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/algolia-places-provider/v/stable)](https://packagist.org/packages/geocoder-php/algolia-places-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/algolia-places-provider/downloads)](https://packagist.org/packages/geocoder-php/algolia-places-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/algolia-places-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/algolia-places-provider)

@@ -1,5 +1,4 @@
 # Azure Maps Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/azure-maps-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/azure-maps-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/azure-maps-provider/v/stable)](https://packagist.org/packages/geocoder-php/azure-maps-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/azure-maps-provider/downloads)](https://packagist.org/packages/geocoder-php/azure-maps-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/azure-maps-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/azure-maps-provider)

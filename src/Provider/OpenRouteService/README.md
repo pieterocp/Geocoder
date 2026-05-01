@@ -1,5 +1,4 @@
 # OpenRouteService Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/openrouteservice-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/openrouteservice-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/openrouteservice-provider/v/stable)](https://packagist.org/packages/geocoder-php/openrouteservice-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/openrouteservice-provider/downloads)](https://packagist.org/packages/geocoder-php/openrouteservice-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/openrouteservice-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/openrouteservice-provider)

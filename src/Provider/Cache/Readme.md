@@ -1,5 +1,4 @@
 # Cache provider
-[![Build Status](https://travis-ci.org/geocoder-php/cache-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/cache-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/cache-provider/v/stable)](https://packagist.org/packages/geocoder-php/cache-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/cache-provider/downloads)](https://packagist.org/packages/geocoder-php/cache-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/cache-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/cache-provider)

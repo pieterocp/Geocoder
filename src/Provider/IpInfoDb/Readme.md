@@ -1,5 +1,4 @@
 # IpInfoDb Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/ip-info-db-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/ip-info-db-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/ip-info-db-provider/v/stable)](https://packagist.org/packages/geocoder-php/ip-info-db-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/ip-info-db-provider/downloads)](https://packagist.org/packages/geocoder-php/ip-info-db-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/ip-info-db-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/ip-info-db-provider)

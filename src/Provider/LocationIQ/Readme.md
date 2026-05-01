@@ -1,5 +1,4 @@
 # LocationIQ Geocoder provider
-[![Build Status](https://travis-ci.org/geocoder-php/locationiq-provider.svg?branch=master)](http://travis-ci.org/geocoder-php/locationiq-provider)
 [![Latest Stable Version](https://poser.pugx.org/geocoder-php/locationiq-provider/v/stable)](https://packagist.org/packages/geocoder-php/locationiq-provider)
 [![Total Downloads](https://poser.pugx.org/geocoder-php/locationiq-provider/downloads)](https://packagist.org/packages/geocoder-php/locationiq-provider)
 [![Monthly Downloads](https://poser.pugx.org/geocoder-php/locationiq-provider/d/monthly.png)](https://packagist.org/packages/geocoder-php/locationiq-provider)
